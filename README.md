@@ -5,4 +5,4 @@ The following repo consists of tasks I completed during internship at Graduate R
 Tasks:
 
 Data analysis
-1. Predicting student score based on hours he studies using machine learning.
+1. Predicting student score based on hours he studies using Supervised learning.
